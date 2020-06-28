@@ -10,4 +10,4 @@ Tarzan ist ein Held, der von Affen aufgezogen wurde. Er begegnet im Dschungel zu
 ## Seine bedeutensten Worte:
 > Ich Tarzan, Du Jane
 
-<img src="https://commons.wikimedia.org/wiki/File:Ritratto_di_Tarzan_-_di_Lino_Jeva.jpg"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Ritratto_di_Tarzan_-_di_Lino_Jeva.jpg"/>

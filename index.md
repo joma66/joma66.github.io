@@ -6,3 +6,6 @@ Tarzan ist ein Held, der von Affen aufgezogen wurde. Er begegnet im Dschungel zu
 * sehr männlich
 * kann laut brüllen
 * kann mit Affen reden
+
+## Seine bedeutensten Worte:
+> Ich Tarzan, Du Jane
